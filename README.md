@@ -1,6 +1,6 @@
 # Hello Im Daniel 🫡
 ---
-
+> Text that is a quote
 <p align="center">
 <a href="https://www.linkedin.com/in/daniel-enqz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:dan17.em@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
